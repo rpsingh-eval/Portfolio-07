@@ -230,7 +230,7 @@ img {
 }
 
 /*BUTTONS*/
-.button .button_hire .contact__button button  {
+.button  {
   display: inline-block;
   background-color: var(--first-color);
   color: #fff;
@@ -239,7 +239,7 @@ img {
   border-radius: 0.5rem;
   transition: 0.3s;
 }
-.button_hire:hover {
+.button:hover {
   background-color: white;
   color: #3385ff;
   border: 2px solid #3385ff;
