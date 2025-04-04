@@ -246,6 +246,9 @@ img {
   transform: scale(1.03); /* Slightly increase size on hover */
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Glow effect */
 }
+.contact__button button:hover{
+  background-color: #2980b9; /* Slightly darker blue */
+}
 
 /* ===== ABOUT =====*/
 .about__container {
